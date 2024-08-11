@@ -1,0 +1,136 @@
+* {
+    padding:10px
+}
+
+body {
+
+    background-image: url(/BackGround.jpg);
+    background-size: cover;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: rgb(202, 166, 115);
+    height: 80px;
+    text-align: center;
+     color:black;
+     font-family: Arial, Helvetica, sans-serif;
+     text-transform: uppercase;
+     
+}
+
+
+
+#heading_2 {
+    border-radius: 10px;
+    width: 400px;
+   height: 60px;
+   text-align: center;
+    background-color: rgb(44, 147, 182);
+    color:coral;
+    font-family: Verdana, Geneva, sans-serif;
+    text-transform: uppercase;
+}
+
+.heading_3 {
+    background-color: aquamarine;
+    color:brown;
+    text-transform: uppercase;
+    border-radius: 10px;
+    width: max-content;
+   height: 90px;
+   text-align: center;
+}
+#heading{
+    background-color: rgb(150, 144, 102);
+    color: white;
+    text-transform: uppercase;
+    border-radius: 10px;
+    width: 500px;
+   height: 80px;
+   text-align: center; 
+   position: relative;
+   left:320px;
+   
+}
+.paragraph_1{
+    color: rgb(17, 47, 47);
+   
+}
+.paragraph_2{
+    color: rgb(31, 64, 64);
+    
+}
+.paragraph_3{
+    color: rgb(70, 76, 76);
+}
+
+.anchor {
+    color: rgb(239, 213, 9);
+    text-decoration: blue dotted;
+    font-size: 25px;
+    padding: 5px;
+  background-color: cadetblue;
+  border-radius: 10px;
+  
+}
+
+.div_1{
+    background-color: #abd4a8;
+    height: 300px ;
+   font-size: 25px;
+   line-height: 50px;
+   text-transform: capitalize;
+}
+.div_2{
+    background-color: #abd4a8;
+    height: 300px ;
+   font-size: 25px;
+   line-height: 50px;
+   text-transform: capitalize;
+
+}
+#div_3{
+    
+   
+    position: absolute;
+    right:50px;
+    top:50px
+}
+.div_4{
+ margin-right:100px;
+ margin-left: 100px;
+ text-align: center;
+}
+#link{
+    margin:50px;
+}
+#img_1{
+    border-radius: 10px;
+    display:flexbox;
+    height: 500px;
+    width: 7-00px;
+}
+#img_2{
+       
+    margin-top: 50px;
+    border-radius: 50%;
+  
+    display:flexbox
+}
+#img_3{
+    border-radius: 10px;
+    display:flexbox;
+    height: 500px;
+    width: 7-00px;
+}
+#image{
+   
+    width: 200px;
+    border-radius: 50%;
+}
+a {
+    background-color: cadetblue;
+
+}
